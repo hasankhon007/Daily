@@ -1,0 +1,17 @@
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\Daily.DataAccess.csproj.AssemblyReference.cache
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\Daily.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\Daily.DataAccess.AssemblyInfoInputs.cache
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\Daily.DataAccess.AssemblyInfo.cs
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\Daily.DataAccess.csproj.CoreCompileInputs.cache
+D:\Daily\src\Daily.DataAccess\bin\Debug\net9.0\Daily.DataAccess.deps.json
+D:\Daily\src\Daily.DataAccess\bin\Debug\net9.0\Daily.DataAccess.runtimeconfig.json
+D:\Daily\src\Daily.DataAccess\bin\Debug\net9.0\Daily.DataAccess.dll
+D:\Daily\src\Daily.DataAccess\bin\Debug\net9.0\Daily.DataAccess.pdb
+D:\Daily\src\Daily.DataAccess\bin\Debug\net9.0\Daily.Domain.dll
+D:\Daily\src\Daily.DataAccess\bin\Debug\net9.0\Daily.Domain.pdb
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\Daily.Da.9AC6F52A.Up2Date
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\Daily.DataAccess.dll
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\refint\Daily.DataAccess.dll
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\Daily.DataAccess.pdb
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\Daily.DataAccess.genruntimeconfig.cache
+D:\Daily\src\Daily.DataAccess\obj\Debug\net9.0\ref\Daily.DataAccess.dll

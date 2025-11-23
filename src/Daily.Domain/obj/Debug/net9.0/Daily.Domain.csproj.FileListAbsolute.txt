@@ -1,0 +1,11 @@
+D:\Daily\src\Daily.Domain\bin\Debug\net9.0\Daily.Domain.deps.json
+D:\Daily\src\Daily.Domain\bin\Debug\net9.0\Daily.Domain.dll
+D:\Daily\src\Daily.Domain\bin\Debug\net9.0\Daily.Domain.pdb
+D:\Daily\src\Daily.Domain\obj\Debug\net9.0\Daily.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daily\src\Daily.Domain\obj\Debug\net9.0\Daily.Domain.AssemblyInfoInputs.cache
+D:\Daily\src\Daily.Domain\obj\Debug\net9.0\Daily.Domain.AssemblyInfo.cs
+D:\Daily\src\Daily.Domain\obj\Debug\net9.0\Daily.Domain.csproj.CoreCompileInputs.cache
+D:\Daily\src\Daily.Domain\obj\Debug\net9.0\Daily.Domain.dll
+D:\Daily\src\Daily.Domain\obj\Debug\net9.0\refint\Daily.Domain.dll
+D:\Daily\src\Daily.Domain\obj\Debug\net9.0\Daily.Domain.pdb
+D:\Daily\src\Daily.Domain\obj\Debug\net9.0\ref\Daily.Domain.dll

@@ -1,0 +1,91 @@
+﻿@using Daily.Domain.Enums
+@model List<Daily.Service.Services.DailyTasks.Models.TaskViewModel>
+
+<h1>Daily Tasks</h1>
+
+<div class="d-grid gap-2 d-md-flex justify-content-md-end mb-3">
+    <a class="btn btn-success" asp-action="Create">Create Task</a>
+</div>
+
+<div class="container">
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>#</th>
+                <th>Title</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Title</td>
+                    <td>@item.Task_Status</td>
+
+                    <td>
+
+                        <!-- EDIT ICON -->
+                        <a asp-action="Update" asp-route-id="@item.Id" class="me-3" title="Edit">
+                            <i class="fa-solid fa-pen text-primary"></i>
+                        </a>
+
+                        <!-- DELETE ICON -->
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="me-3" title="Delete">
+                            <i class="fa-solid fa-trash text-danger"></i>
+                        </a>
+
+                        <!-- VIEW ICON -->
+                        <a style="cursor:pointer"
+                           data-bs-target="#viewModal@item.Id"
+                           data-bs-toggle="modal"
+                           title="View">
+                            <i class="fa-solid fa-eye text-success"></i>
+                        </a>
+
+
+                        <!-- VIEW MODAL -->
+                        <div class="modal fade" id="viewModal@item.Id" tabindex="-1" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">Task Details</h5>
+                                        <button class="btn-close" data-bs-dismiss="modal"></button>
+                                    </div>
+
+                                    <div class="modal-body">
+
+                                        <div class="mb-3">
+                                            <label>Title</label>
+                                            <input class="form-control" value="@item.Title" disabled />
+                                        </div>
+
+                                        <div class="mb-3">
+                                            <label>Description</label>
+                                            <textarea class="form-control" disabled>@item.Description</textarea>
+                                        </div>
+
+                                        <div class="mb-3">
+                                            <label>Status</label>
+                                            <input class="form-control" value="@item.Task_Status" disabled />
+                                        </div>
+
+                                    </div>
+
+                                    <div class="modal-footer">
+                                        <button class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

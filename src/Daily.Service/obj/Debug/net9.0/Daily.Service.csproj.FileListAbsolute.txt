@@ -1,0 +1,17 @@
+D:\Daily\src\Daily.Service\obj\Debug\net9.0\Daily.Service.csproj.AssemblyReference.cache
+D:\Daily\src\Daily.Service\obj\Debug\net9.0\Daily.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daily\src\Daily.Service\obj\Debug\net9.0\Daily.Service.AssemblyInfoInputs.cache
+D:\Daily\src\Daily.Service\obj\Debug\net9.0\Daily.Service.AssemblyInfo.cs
+D:\Daily\src\Daily.Service\obj\Debug\net9.0\Daily.Service.csproj.CoreCompileInputs.cache
+D:\Daily\src\Daily.Service\bin\Debug\net9.0\Daily.Service.deps.json
+D:\Daily\src\Daily.Service\bin\Debug\net9.0\Daily.Service.dll
+D:\Daily\src\Daily.Service\bin\Debug\net9.0\Daily.Service.pdb
+D:\Daily\src\Daily.Service\bin\Debug\net9.0\Daily.DataAccess.dll
+D:\Daily\src\Daily.Service\bin\Debug\net9.0\Daily.Domain.dll
+D:\Daily\src\Daily.Service\bin\Debug\net9.0\Daily.DataAccess.pdb
+D:\Daily\src\Daily.Service\bin\Debug\net9.0\Daily.Domain.pdb
+D:\Daily\src\Daily.Service\obj\Debug\net9.0\Daily.Se.194ED5EB.Up2Date
+D:\Daily\src\Daily.Service\obj\Debug\net9.0\Daily.Service.dll
+D:\Daily\src\Daily.Service\obj\Debug\net9.0\refint\Daily.Service.dll
+D:\Daily\src\Daily.Service\obj\Debug\net9.0\Daily.Service.pdb
+D:\Daily\src\Daily.Service\obj\Debug\net9.0\ref\Daily.Service.dll
